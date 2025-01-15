@@ -37,5 +37,10 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     textAlign: "center",
     backgroundColor: "rgba(0,0,0,0.5)",
+    position: "absolute",
+    top: 20,
+    left: 0,
+    right: 0,
+    padding: 10,
   },
 });
